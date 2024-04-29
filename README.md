@@ -1,5 +1,7 @@
 # cloud-server
 
-![GUI Issues](Lab-16.png)
+## GUI Environment ##
+![AWS-EB GUI Environment Link](http://class-17-env.eba-3zhnaqzi.us-west-2.elasticbeanstalk.com/)
 
-## Unable to install ebcli on gitbash and unable to complete the Lab
+## CLI Environment ##
+![AWS-EB CLI Environment Link](http://cli-env.eba-3zhnaqzi.us-west-2.elasticbeanstalk.com/)
